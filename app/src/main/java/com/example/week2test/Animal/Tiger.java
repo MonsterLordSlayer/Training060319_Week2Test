@@ -15,7 +15,7 @@ public class Tiger extends Animal {
             energy+=0;
         }
         else  {
-            energy+=2;
+            energy+=5;
         }
     }
     @Override

@@ -27,7 +27,7 @@ public class Monkey extends Animal {
 
         }
         else {
-            System.out.println("Monkey is too tired ");
+            System.out.println(name+": Monkey is too tired ");
             sound();
         }
     }
